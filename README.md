@@ -1,3 +1,7 @@
+# GraphQL Todo List
+
+Simple todo list app using React and a Hasura GraphQL API.
+
 Deployed on Firebase: https://graphqltodo.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
